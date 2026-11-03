@@ -1,0 +1,23 @@
+{
+  "name": "simulador-lsp",
+  "version": "1.0.0",
+  "description": "Simulador 3D de construcción con ladrillos inspirado en la metodología LEGO® SERIOUS PLAY®. Proyecto independiente.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test \"test/**/*.test.js\""
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "vite": "^8.3.5"
+  }
+}
