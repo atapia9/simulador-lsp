@@ -5,6 +5,7 @@ export const T = {
   app: {
     nombre: 'Simulador LSP',
     lema: 'Construye, cuenta y reflexiona',
+    saltar: 'Ir al área de construcción',
     cargando: 'Cargando el simulador…',
     sinWebGL:
       'Tu navegador no pudo iniciar los gráficos 3D (WebGL). Prueba con una versión reciente de Chrome, Edge, Firefox o Safari.',

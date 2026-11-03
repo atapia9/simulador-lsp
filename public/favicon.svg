@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Ladrillo genérico 2×2 visto en perspectiva (diseño propio). -->
+  <path d="M8 26 32 14l24 12v18L32 56 8 44z" fill="#1d4ed8"/>
+  <path d="M8 26 32 38v18L8 44z" fill="#1e40af"/>
+  <path d="M56 26 32 38v18l24-12z" fill="#2563eb"/>
+  <path d="M8 26 32 14l24 12-24 12z" fill="#3b82f6"/>
+  <g fill="#93c5fd" stroke="#1e40af" stroke-width="1.5">
+    <ellipse cx="32" cy="18.5" rx="5" ry="2.6"/>
+    <ellipse cx="22" cy="23.5" rx="5" ry="2.6"/>
+    <ellipse cx="42" cy="23.5" rx="5" ry="2.6"/>
+    <ellipse cx="32" cy="28.5" rx="5" ry="2.6"/>
+  </g>
+  <circle cx="50" cy="50" r="11" fill="#f59e0b" stroke="#fff" stroke-width="2.5"/>
+  <path d="M46.5 47.5a3.6 3.6 0 0 1 7 1c0 2.3-3.5 2.8-3.5 5" fill="none" stroke="#1f2937" stroke-width="2.6" stroke-linecap="round"/>
+  <circle cx="50" cy="57" r="1.5" fill="#1f2937"/>
+</svg>
