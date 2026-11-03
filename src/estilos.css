@@ -579,6 +579,12 @@ body.con-taller .principal {
 .taller-cuerpo:focus {
   outline: none;
 }
+.taller-cuerpo > * {
+  flex-shrink: 0;
+}
+.taller-cuerpo textarea {
+  min-height: 84px;
+}
 .taller-cuerpo .intro {
   margin: 4px 0;
   color: var(--texto-2);
